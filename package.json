@@ -1,0 +1,25 @@
+{
+  "name": "with-mobx",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mobx": "^5.9.0",
+    "mobx-react": "^5.4.3",
+    "next": "^8.0.3",
+    "npm": "^6.9.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "rebass": "3.0.1",
+    "styled-components": "^4.1.3"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.0",
+    "babel-plugin-styled-components": "^1.10.0"
+  }
+}
